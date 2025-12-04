@@ -1,0 +1,12 @@
+geopandas
+pandas
+numpy
+matplotlib
+shapely
+fiona
+pyproj
+mapclassify
+jupyter
+ipykernel
+contextily
+openpyxl
