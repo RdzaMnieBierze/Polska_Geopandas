@@ -20,3 +20,8 @@ Projekt został stworzony w środowisku Jupyter Notebook przy użyciu:
 * **[Folium](https://python-visualization.github.io/folium/)** – interaktywne mapy (Leaflet.js)
 * **[Matplotlib](https://matplotlib.org/)** – wizualizacja danych
 * **[Contextily](https://contextily.readthedocs.io/)** – podkłady mapowe (basemaps)
+
+## Przykładowe mapy
+![](basic.png)
+![](merged.png)
+![](openstreet.png)
